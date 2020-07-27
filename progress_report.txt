@@ -1,0 +1,8 @@
+/************* PROGRESS REPORT FOR THE REPOSITORY *************/
+
+Week 0: Introduction to Machine Learning 
+        Basics of python and its useful packages
+
+Week 1: Introduction to Regression
+    
+    Day 0: 
