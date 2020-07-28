@@ -5,4 +5,5 @@ Week 0: Introduction to Machine Learning
 
 Week 1: Introduction to Regression
     
-    Day 0: 
+    Day 0: completed linear regression
+                - practice completed for thelab task
