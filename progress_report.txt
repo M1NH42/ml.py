@@ -7,3 +7,7 @@ Week 1: Introduction to Regression
     
     Day 0: completed linear regression
                 - practice completed for the lab task
+
+
+
+/*** Completed the whole course ***/
